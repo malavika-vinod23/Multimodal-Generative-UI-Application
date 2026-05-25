@@ -210,11 +210,6 @@ __pycache__/
 
 ---
 
-## Author
-
-Developed as an internship project demonstrating multimodal LLM-powered generative UI.
-
----
 
 ## License
 
